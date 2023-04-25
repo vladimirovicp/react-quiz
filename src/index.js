@@ -1,12 +1,12 @@
-import React from 'react';
-import ReactDOM from 'react-dom/client';
-import Quiz from './components/Quiz';
-import './index.css';
+import React from "react";
+import ReactDOM from "react-dom/client";
+import "./index.css";
+import Quiz from "./components/Quiz";
 
-const root = ReactDOM.createRoot(document.getElementById('root'));
+const root = ReactDOM.createRoot(document.getElementById("root"));
+
 root.render(
-  <React.StrictMode>
-    <Quiz />
-  </React.StrictMode>,
-    document.getElementById("root")
+    <React.StrictMode>
+        <Quiz />
+    </React.StrictMode>,
 );
