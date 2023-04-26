@@ -7,3 +7,8 @@ React.js основы. Изучите React hooks, Context, Http, Api и деп�
 # npm
 >* npm init react-app react-quiz
 >* npm run start
+>
+
+>* https://opentdb.com/
+>* https://opentdb.com/api.php?amount=10&type=multiple&encode=url3986
+
